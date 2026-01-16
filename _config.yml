@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoxiang Yin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Computational Electrolyte Design & AI4Science"
+description              : "AI4Battery and AI4Science"
 repository               : "Yinhx614/Yinhx614.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoxiang Yin"
   avatar           : "images/avarta.jpg"
-  bio              : "Sichuan University"
+  bio              : "M.S. in Chemistry, Sichuan University"
   location         : "Sichuan, Chengdu, China"
   employer         :
   pubmed           : 
