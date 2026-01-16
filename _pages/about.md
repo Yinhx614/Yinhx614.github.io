@@ -23,7 +23,7 @@ My research interests include computational electrolyte design, electrode–elec
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab @ HKUST** as a Research Assistant (supervised by Prof. Lixue Cheng), working on AI‑assisted materials discovery.
+- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab @ HKUST** as a Research Assistant (supervised by Prof. Lixue Cheng), working on AI4S.
 - *2025.12*: &nbsp;🎉 Our work *“Multipaths Li⁺ Migration and In Situ Interfacial Alloying of Composite Solid‑State Electrolyte Enables High‑Performance All‑Solid‑State Lithium Metal Batteries”*, in which I contributed theoretical calculations, was accepted by *Small*.
 
 
