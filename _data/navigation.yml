@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
@@ -16,7 +19,10 @@ main:
     url: "/#-educations"
 
   - title: "Talks"
-    url: "/#-Talks"
+    url: "/#-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Technical Expertise"
+    url: "/#-technical-expertise"
+
+  - title: "Hobbies"
+    url: "/#-hobbies"

@@ -70,7 +70,7 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 
 # 💬 Talks
-- *2025.11*, Oral presentation at **NCEC 2025 (National Chemical Engineering Conference)**, Shanghai, China – *Machine learning–assisted high‑throughput screening of fluorinated electrolytes for rechargeable batteries*. [Photo](images/NCEC2025.png)
+- *2025.11*, Oral presentation at **NCEC 2025 (National Chemical Engineering Conference)**, Shanghai, China – *Weakly Solvated Functional Additive Design for Sodium Battery Electrolytes*. [Photo](images/NCEC2025.png)
 
 
 # 💻 Technical Expertise
