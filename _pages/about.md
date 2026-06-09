@@ -50,7 +50,7 @@ Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng 
 *Journal of Energy Chemistry* 117 (2026) 622–634
 
 - Proposed a weakly solvated functional additive (DMTFOS) strategy that synchronizes bulk-electrolyte transport, SEI migration, and interfacial desolvation in sodium metal batteries.
-- Revealed that DMTFOS weakens Na⁺ solvation and promotes a robust NaF/Na₂O-rich SEI, reducing key kinetic barriers and enabling Na₃V₂(PO₄)₃\|\|Na cells to retain ~100% capacity after 1000 cycles at 1 C and 81.5% capacity after 2000 cycles at 8 C.
+- Revealed that DMTFOS weakens Na⁺ solvation and promotes a robust NaF/Na₂O-rich SEI, reducing key kinetic barriers and enabling Na₃V₂(PO₄)₃ full cells paired with Na metal to retain ~100% capacity after 1000 cycles at 1 C and 81.5% capacity after 2000 cycles at 8 C.
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 ### Weakly Solvated Functional Additive Design for Sodium Battery Electrolytes  (Master’s Research Project, Lead Researcher) · 2023–2026
 - Proposed a weakly solvated functional additive strategy using DMTFOS to jointly accelerate Na⁺ transport in the bulk electrolyte, through the SEI, and across the electrolyte–electrode interface.
 - Combined DFT, MD, spectroscopy, electrochemical kinetics, and DRT analysis to connect loose Na⁺ solvation, NaF/Na₂O-rich SEI chemistry, and stabilized charge-transfer relaxation behavior.
-- Demonstrated fast-charging and long-life Na₃V₂(PO₄)₃\|\|Na full cells, including ~100% capacity retention after 1000 cycles at 1 C and 81.5% retention after 2000 cycles at 8 C.
+- Demonstrated fast-charging and long-life Na₃V₂(PO₄)₃ full cells paired with Na metal, including ~100% capacity retention after 1000 cycles at 1 C and 81.5% retention after 2000 cycles at 8 C.
 - Published the work as a first-author article in *Journal of Energy Chemistry*.
 
 
