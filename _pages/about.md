@@ -23,11 +23,36 @@ My research interests include computational electrolyte design, electrode–elec
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab @ HKUST** as a Research Assistant (supervised by Prof. Lixue Cheng), working on AI4S.
+- *2026.05.26*: &nbsp;🎓 Successfully completed my M.S. thesis defense at Sichuan University.
+- *2026.02.19*: &nbsp;🎉 Our first-author work *“Weakly solvated functional additive-mediated rapid intra-phase and cross-interface Na⁺ transport kinetics to enable fast-charging and long-life sodium metal batteries”* was accepted by *Journal of Energy Chemistry*.
 - *2025.12*: &nbsp;🎉 Our work *“Multipaths Li⁺ Migration and In Situ Interfacial Alloying of Composite Solid‑State Electrolyte Enables High‑Performance All‑Solid‑State Lithium Metal Batteries”*, in which I contributed theoretical calculations, was accepted by *Small*.
+- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab @ HKUST** as a Research Assistant (supervised by Prof. Lixue Cheng), working on AI4S.
 
 
 # 📝 Publications 
+
+[ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591)
+
+Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng Wang, Qi Li, Kun Li, Sheng Xu, Shengdu Chai, Fangchen Yu, Xiangyu Zhao, Zhangrui Zhao, Weijie Ma, Zijie Guo, Haoyu Zhou, **Haoxiang Yin**, Lixue Cheng, Chaofan Hu, Haoxuan Li, Lu Mi, et al.
+
+*arXiv:2606.07591* (2026)
+
+- Introduces ResearchClawBench, a benchmark for evaluating end-to-end autonomous scientific research across 40 tasks from 10 scientific domains using paper-grounded tasks, hidden target papers, and expert-curated multimodal rubrics.
+- Contributed chemistry-domain support to help align benchmark tasks and evaluation considerations with scientific practice.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEC</div><img src='images/JEC.png' alt="Journal of Energy Chemistry paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Weakly solvated functional additive-mediated rapid intra-phase and cross-interface Na⁺ transport kinetics to enable fast-charging and long-life sodium metal batteries](https://doi.org/10.1016/j.jechem.2026.02.042)
+
+**Hao-Xiang Yin**, Guo-Rui Zhu, Ying-Ying Zhang, Zhi Wang, Xiu-Li Wang, Gang Wu
+
+*Journal of Energy Chemistry* 117 (2026) 622–634
+
+- Proposed a weakly solvated functional additive (DMTFOS) strategy that synchronizes bulk-electrolyte transport, SEI migration, and interfacial desolvation in sodium metal batteries.
+- Revealed that DMTFOS weakens Na⁺ solvation and promotes a robust NaF/Na₂O-rich SEI, reducing key kinetic barriers and enabling Na₃V₂(PO₄)₃||Na cells to retain ~100% capacity after 1000 cycles at 1 C and 81.5% capacity after 2000 cycles at 8 C.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Small</div><img src='images/small.png' alt="Small paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,21 +68,22 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 # 🔬 Research Experience
 
-### Machine Learning–Assisted High‑Throughput Screening of Fluorinated Electrolytes for Batteries  (Lead Researcher) · 2025–Now
-- Built an LLM‑RAG mining pipeline (`Electrolyte_ML_Project/LLM_RAG_V3`) to automatically discover DOIs, download full texts and extract fluorinated liquid electrolyte molecules and properties from large‑scale literature.
-- Developed an automated DFT screening workflow (`AutoDFT‑Fluoro`) that performs conformer search (GFN2‑xTB/CREST), B3LYP‑D3(BJ)/6‑311+G(d,p) optimization, Def2‑TZVP single‑point calculations and ESP analysis for mined molecules.
-- Trained machine‑learning models on computed and reported properties to identify key electronic and solvation descriptors governing viscosity, ion transport and electrochemical stability, deriving design rules for fluorinated solvents/additives.
-- Used the learned models to generate and rank new fluorinated electrolyte candidates that satisfy predefined stability and transport criteria, and down‑selected promising molecules for experimental validation.
-- Collaborated with experimental colleagues to synthesize selected candidates and evaluate ionic conductivity and cycling performance in Li/Na batteries, confirming the predicted structure–property relationships.
+### Machine Learning–Assisted High‑Throughput Screening of Fluorinated Electrolytes for Batteries  (Lead Researcher) · 2025–present
+- Built an AI4Electrolyte workflow integrating literature mining, molecular-space definition, staged molecular generation, DFT/MD screening, and LLM-assisted candidate ranking for fluorinated liquid-electrolyte discovery.
+- Curated a literature-derived seed library of 822 unique fluorinated electrolyte molecules and expanded it through a 10-stage PubChem-validated generation workflow to a 24,327-molecule chemical space.
+- Compared ECFP/Morgan, SMILES Transformer, and GROVER representations, using SMILES Transformer as the primary fine-grained molecular space for cluster-guided generation and chemical-space analysis.
+- Constructed reusable AutoDFT and AutoMD workflows, including 785 complete opt+SP+ESP DFT records and an authoritative MD result table for downstream descriptor analysis.
+- Developed a constrained DFT-informed LLM virtual-screening pipeline in which models rank supplied candidate IDs from structured candidate cards, followed by output validation, aggregation, and blinded expert review. Manuscript in preparation.
 
-### Weakly Solvated Functional Additive Design for Sodium Battery Electrolytes  (Master’s Research Project, Lead Researcher) · 2023–2025
-- Designed a bi‑functional fluorinated additive to optimize solvation structure and stabilize interfacial chemistry in sodium metal batteries, guided by DFT and MD simulations.
-- Performed Gaussian and GROMACS simulations to pre‑screen candidate molecules, analyze solvation structure and elucidate SEI formation mechanisms.
-- Investigated ion‑transport kinetics via electrochemical measurements and spectroscopic analyses, linking microscopic solvation descriptors to macroscopic rate capability.
-- Achieved >80% capacity retention after long‑term cycling at practical current densities; manuscript submitted to the *Journal of Energy Chemistry* (under review).
+### Weakly Solvated Functional Additive Design for Sodium Battery Electrolytes  (Master’s Research Project, Lead Researcher) · 2023–2026
+- Proposed a weakly solvated functional additive strategy using DMTFOS to jointly accelerate Na⁺ transport in the bulk electrolyte, through the SEI, and across the electrolyte–electrode interface.
+- Combined DFT, MD, spectroscopy, electrochemical kinetics, and DRT analysis to connect loose Na⁺ solvation, NaF/Na₂O-rich SEI chemistry, and stabilized charge-transfer relaxation behavior.
+- Demonstrated fast-charging and long-life Na₃V₂(PO₄)₃||Na full cells, including ~100% capacity retention after 1000 cycles at 1 C and 81.5% retention after 2000 cycles at 8 C.
+- Published the work as a first-author article in *Journal of Energy Chemistry*.
 
 
 # 🎖 Honors and Awards
+- Awarded the **First Prize of the 2025–2026 AFCONA Social Scholarship**.
 - Awarded the **Second Prize Academic Scholarship** for three consecutive years during undergraduate study.
 - Recognized as **Class President** and **Outstanding Student Leader** at Sichuan University.
 - Served as **Laboratory Instrument Manager (Micro FI‑TR)** and **Leader of Theoretical Calculations** group, supporting long‑term computational chemistry projects.
@@ -75,19 +101,19 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 # 💻 Technical Expertise
 
-**Theoretical & Computational Chemistry**
-- Density functional theory calculations with Gaussian (geometry optimization, frequency and single‑point energy), solvation models and wavefunction analysis using Multiwfn.
-- Molecular dynamics simulations of electrolyte systems using GROMACS and analysis of ion transport and interfacial structure.
+**Language**
+- Mandarin Chinese; English (IELTS 6.5).
 
-**Programming & Automation**
-- Proficient in Python for data processing, scientific computing and workflow automation; comfortable with LaTeX, MATLAB and basic shell scripting.
-- Developed automated pipelines such as `AutoDFT‑Fluoro` for high‑throughput DFT screening and Gaussian job scheduling on HPC clusters.
+**Experimental Chemistry**
+- Spectroscopic and materials characterization; full battery-testing workflow from cell assembly to electrochemical evaluation and data analysis.
 
-**Machine Learning & AI‑Assisted Research**
-- Experience with PyTorch, scikit‑learn, Pandas and NumPy for building and evaluating machine‑learning models for materials property prediction.
-- Developed an LLM‑RAG pipeline to mine fluorinated electrolyte molecules and properties from the literature, integrating large language models with document parsing and data cleaning.
-- Applied graph neural networks (GNNs) and equivariant GNNs (EGNNs) to learn structure–property relationships of electrolyte molecules and extract key electronic/solvation descriptors.
-- Experienced in using AI agents for “vibe‑coding” style development, combining conversational agents with scripts to prototype and iterate on research code efficiently.
+**Computational Chemistry**
+- First-principles calculations with Gaussian and VASP.
+- Molecular dynamics simulations with GROMACS, Materials Studio, and LAMMPS.
+
+**Computing & AI**
+- Python, Pandas, NumPy, Matplotlib, and LaTeX for scientific computing, visualization, and writing.
+- MAS (multi-agent systems), machine learning, and vibecoding with Codex, Claude Code, Hermes, and related agentic coding tools.
 
 
 # 🎯 Hobbies
@@ -107,4 +133,3 @@ I have been a football fan since middle school and often play informal matches w
 
 ## 🎮 Gaming
 I am a casual but competitive **Teamfight Tactics** player. During my spare time, I once reached **Master** rank on the Chinese server and participated in local open‑qualifier tournaments, which taught me to stay calm, adapt strategies and manage variance under pressure.
-
