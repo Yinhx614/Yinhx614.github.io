@@ -86,18 +86,37 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 # 🔬 Research Experience
 
-### Machine Learning–Assisted High‑Throughput Screening of Fluorinated Electrolytes for Batteries  (Lead Researcher) · 2025–present
-- Built an AI4Electrolyte workflow integrating literature mining, molecular-space definition, staged molecular generation, DFT/MD screening, and LLM-assisted candidate ranking for fluorinated liquid-electrolyte discovery.
-- Curated a literature-derived seed library of 822 unique fluorinated electrolyte molecules and expanded it through a 10-stage PubChem-validated generation workflow to a 24,327-molecule chemical space.
-- Compared ECFP/Morgan, SMILES Transformer, and GROVER representations, using SMILES Transformer as the primary fine-grained molecular space for cluster-guided generation and chemical-space analysis.
-- Constructed reusable AutoDFT and AutoMD workflows, including 785 complete opt+SP+ESP DFT records and an authoritative MD result table for downstream descriptor analysis.
-- Developed a constrained DFT-informed LLM virtual-screening pipeline in which models rank supplied candidate IDs from structured candidate cards, followed by output validation, aggregation, and blinded expert review. Manuscript in preparation.
+### FLEX: LLM-Assisted Discovery of Fluorinated Electrolytes
 
-### Weakly Solvated Functional Additive Design for Sodium Battery Electrolytes  (Master’s Research Project, Lead Researcher) · 2023–2026
-- Proposed a weakly solvated functional additive strategy using DMTFOS to jointly accelerate Na⁺ transport in the bulk electrolyte, through the SEI, and across the electrolyte–electrode interface.
-- Combined DFT, MD, spectroscopy, electrochemical kinetics, and DRT analysis to connect loose Na⁺ solvation, NaF/Na₂O-rich SEI chemistry, and stabilized charge-transfer relaxation behavior.
-- Demonstrated fast-charging and long-life Na₃V₂(PO₄)₃ full cells paired with Na metal, including ~100% capacity retention after 1000 cycles at 1 C and 81.5% retention after 2000 cycles at 8 C.
-- Published the work as a first-author article in *Journal of Energy Chemistry*.
+*Lead Researcher · 2025–present · Manuscript in preparation*
+
+- Developed FLEX to identify fluorinated additives for lithium metal batteries, combining literature mining, molecular-space expansion, quantum-chemical descriptors, and LLM-assisted screening.
+- Expanded 822 literature-derived molecules into a 24,327-molecule library through ten stages of generation and PubChem identity checks; assembled a screening pool of 21,131 generated molecules with DFT descriptors.
+- Completed screening with five LLMs, incorporating preliminary experimental feedback, commercial availability, and blinded expert review to prioritize candidates for further testing.
+
+### Supramolecular Regulation of Lithium Battery Electrolytes
+
+*Theory and Simulation Lead · [Chemical Communications](https://doi.org/10.1039/D6CC04662B), 2026*
+
+- Performed all theoretical calculations and MD simulations to investigate thiophanate-methyl (TM) as a bifunctional additive in ether-based electrolytes.
+- Analyzed molecular binding, frontier orbitals, and Li⁺ coordination to connect TM–anion hydrogen bonding with changes in solvation and interfacial reduction tendencies.
+- Contributed to data analysis and mechanistic discussions, integrating computational and experimental evidence to explain the formation of a protective SEI enriched in LiF, Li₂S, and Li₃N.
+
+### Weakly Solvated Functional Additives for Sodium Batteries
+
+*Master’s Research Project, Lead Researcher · 2023–2026 · [Journal of Energy Chemistry](https://doi.org/10.1016/j.jechem.2026.02.042), first author*
+
+- Proposed DMTFOS as a weakly solvated functional additive to improve Na⁺ transport in the bulk electrolyte, through the SEI, and across the electrode–electrolyte interface.
+- Combined DFT and MD with spectroscopy, electrochemical kinetics, and distribution of relaxation times (DRT) analysis to relate Na⁺ solvation, NaF/Na₂O-rich SEI chemistry, and interfacial stability.
+- Demonstrated long-life Na₃V₂(PO₄)₃ full cells paired with Na metal, retaining ~100% capacity after 1000 cycles at 1 C and 81.5% after 2000 cycles at 8 C.
+
+### Ion Transport and Interfacial Stability in Composite Solid Electrolytes
+
+*Theory and Simulation Lead · [Small](https://doi.org/10.1002/smll.202509107), 2026*
+
+- Performed all theoretical calculations and MD simulations for BiF₃-filled PEO composite solid electrolytes for all-solid-state lithium metal batteries.
+- Used DFT to examine Li⁺ and TFSI⁻ binding and MD to quantify Li⁺ diffusion, supporting the role of BiF₃ in promoting salt dissociation and ion transport.
+- Contributed to data analysis and mechanistic discussions, connecting enhanced bulk transport with experimental evidence for a protective interphase containing LiF and lithium–bismuth alloys.
 
 
 # 🎖 Honors and Awards
