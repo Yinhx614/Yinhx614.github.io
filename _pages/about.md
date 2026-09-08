@@ -139,7 +139,7 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 # 💻 Technical Expertise
 
 **Language**
-- Mandarin Chinese; English (IELTS 6.5).
+- Mandarin Chinese; English (IELTS 7.0; Listening: 7.5, Reading: 6.5, Speaking: 6.5, Writing: 6.5).
 
 **Experimental Chemistry**
 - Spectroscopic and materials characterization; full battery-testing workflow from cell assembly to electrochemical evaluation and data analysis.
