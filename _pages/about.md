@@ -23,6 +23,7 @@ My research interests include computational electrolyte design, electrode–elec
 
 
 # 🔥 News
+- *2026.08.20*: &nbsp;🎉 Our work on a bifunctional supramolecular modulator for lithium metal batteries was published in *Chemical Communications*. I performed the theoretical calculations and molecular dynamics simulations and contributed to the mechanistic analysis.
 - *2026.05.26*: &nbsp;🎓 Successfully completed my M.S. thesis defense at Sichuan University.
 - *2026.02.19*: &nbsp;🎉 Our first-author work *“Weakly solvated functional additive-mediated rapid intra-phase and cross-interface Na⁺ transport kinetics to enable fast-charging and long-life sodium metal batteries”* was accepted by *Journal of Energy Chemistry*.
 - *2025.12*: &nbsp;🎉 Our work *“Multipaths Li⁺ Migration and In Situ Interfacial Alloying of Composite Solid‑State Electrolyte Enables High‑Performance All‑Solid‑State Lithium Metal Batteries”*, in which I contributed theoretical calculations, was accepted by *Small*.
@@ -39,6 +40,20 @@ Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng 
 
 - Introduces ResearchClawBench, a benchmark for evaluating end-to-end autonomous scientific research across 40 tasks from 10 scientific domains using paper-grounded tasks, hidden target papers, and expert-curated multimodal rubrics.
 - Contributed chemistry-domain support to help align benchmark tasks and evaluation considerations with scientific practice.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CC</div><img src='images/CC.png' alt="Molecular interactions and lithium solvation structures from the Chemical Communications paper, Figure 1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A bifunctional supramolecular modulator regulating solvation and interfacial chemistry for stable lithium metal batteries](https://doi.org/10.1039/D6CC04662B)
+
+Zhi Wang, **Hao-Xiang Yin**, Guo-Rui Zhu, Gang Wu
+
+*Chemical Communications* (2026), published online 20 August 2026
+
+- Identified thiophanate-methyl (TM) as a bifunctional additive that regulates Li⁺ solvation through hydrogen bonding with anions and promotes an anion-derived solid electrolyte interphase (SEI).
+- Performed all theoretical calculations and MD simulations and contributed to the analysis and mechanistic discussions, linking molecular interactions to improved lithium metal battery stability.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEC</div><img src='images/JEC.png' alt="Journal of Energy Chemistry paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +76,10 @@ Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng 
 
 Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑Li Wang, Guo‑Rui Zhu, Gang Wu, Yu‑Zhong Wang
 
-- Performed DFT (Gaussian) and MD (GROMACS) simulations to analyze Li⁺ migration pathways and interfacial alloying behavior in BiF₃‑containing composite solid‑state electrolytes, supporting the experimental design and mechanistic understanding.
+*Small* 22 (2026), e09107
+
+- Introduced porous BiF₃ fillers into PEO-based solid electrolytes to facilitate Li⁺ transport and form a protective interphase containing LiF and lithium–bismuth alloys.
+- Performed all theoretical calculations and MD simulations to investigate ion binding and Li⁺ diffusion, and contributed to the analysis and mechanistic discussions.
 </div>
 </div>
 
