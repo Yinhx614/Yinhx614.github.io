@@ -41,7 +41,7 @@ Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng 
 - Introduces ResearchClawBench, a benchmark for evaluating end-to-end autonomous scientific research across 40 tasks from 10 scientific domains using paper-grounded tasks, hidden target papers, and expert-curated multimodal rubrics.
 - Contributed chemistry-domain support to help align benchmark tasks and evaluation considerations with scientific practice.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CC</div><img src='images/CC.png' alt="Molecular interactions and lithium solvation structures from the Chemical Communications paper, Figure 1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CC</div><img src='images/CC.png' alt="Thiophanate-methyl regulates lithium solvation through hydrogen bonding and promotes an anion-derived SEI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A bifunctional supramolecular modulator regulating solvation and interfacial chemistry for stable lithium metal batteries](https://doi.org/10.1039/D6CC04662B)
