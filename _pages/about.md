@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Haoxiang Yin, incoming PhD student at HKUST (Spring 2027), researching electrolyte design, molecular simulation, and AI for materials discovery."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,29 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-M.S. student in Chemistry at Sichuan University, working on computational electrolyte design and AI‑driven screening for rechargeable batteries.
+I am an incoming PhD student at the Hong Kong University of Science and Technology (HKUST), joining Prof. Lixue Cheng’s AI4PhysSci Lab in Spring 2027. I previously worked in the lab as a Research Assistant.
 
-My research interests include computational electrolyte design, electrode–electrolyte interface mechanisms, high‑throughput and machine‑learning screening, and AI4Materials / physics‑informed AI.
+My research focuses on electrolyte design and electrode–electrolyte interfaces, combining molecular simulations, high-throughput screening, and machine learning. I am also interested in physics-informed AI for materials discovery.
 
 
 # 🔥 News
-- *2026.08.20*: &nbsp;🎉 Our work on a bifunctional supramolecular modulator for lithium metal batteries was published in *Chemical Communications*. I performed the theoretical calculations and molecular dynamics simulations and contributed to the mechanistic analysis.
+- *2026.11*: &nbsp;🎉 I will begin my PhD at **HKUST in Spring 2027** under the supervision of **Prof. Lixue Cheng**!
+- *2026.08.20*: &nbsp;🎉 Our [work on supramolecular electrolyte additives](https://doi.org/10.1039/D6CC04662B) was published in *Chemical Communications*.
 - *2026.05.26*: &nbsp;🎓 Successfully completed my M.S. thesis defense at Sichuan University.
-- *2026.02.19*: &nbsp;🎉 Our first-author work *“Weakly solvated functional additive-mediated rapid intra-phase and cross-interface Na⁺ transport kinetics to enable fast-charging and long-life sodium metal batteries”* was accepted by *Journal of Energy Chemistry*.
-- *2025.12*: &nbsp;🎉 Our work *“Multipaths Li⁺ Migration and In Situ Interfacial Alloying of Composite Solid‑State Electrolyte Enables High‑Performance All‑Solid‑State Lithium Metal Batteries”*, in which I contributed theoretical calculations, was accepted by *Small*.
-- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab @ HKUST** as a Research Assistant (supervised by Prof. Lixue Cheng), working on AI4S.
+- *2026.02.19*: &nbsp;🎉 My [first-author work on sodium battery electrolyte additives](https://doi.org/10.1016/j.jechem.2026.02.042) was accepted by *Journal of Energy Chemistry*.
+- *2025.12*: &nbsp;🎉 Our [work on BiF₃-based composite solid electrolytes](https://doi.org/10.1002/smll.202509107) was accepted by *Small*.
+- *2025.11*: &nbsp;🎉 Joined the **AI4PhysSci Lab at HKUST** as a Research Assistant under Prof. Lixue Cheng.
 
 
 # 📝 Publications 
 
-[ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591)
-
-Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng Wang, Qi Li, Kun Li, Sheng Xu, Shengdu Chai, Fangchen Yu, Xiangyu Zhao, Zhangrui Zhao, Weijie Ma, Zijie Guo, Haoyu Zhou, **Haoxiang Yin**, Lixue Cheng, Chaofan Hu, Haoxuan Li, Lu Mi, et al.
-
-*arXiv:2606.07591* (2026)
-
-- Introduces ResearchClawBench, a benchmark for evaluating end-to-end autonomous scientific research across 40 tasks from 10 scientific domains using paper-grounded tasks, hidden target papers, and expert-curated multimodal rubrics.
-- Contributed chemistry-domain support to help align benchmark tasks and evaluation considerations with scientific practice.
+## Journal Articles
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CC</div><img src='images/CC.png' alt="Thiophanate-methyl regulates lithium solvation through hydrogen bonding and promotes an anion-derived SEI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +45,7 @@ Zhi Wang, **Hao-Xiang Yin**, Guo-Rui Zhu, Gang Wu
 *Chemical Communications* (2026), published online 20 August 2026
 
 - Identified thiophanate-methyl (TM) as a bifunctional additive that regulates Li⁺ solvation through hydrogen bonding with anions and promotes an anion-derived solid electrolyte interphase (SEI).
-- Performed all theoretical calculations and MD simulations and contributed to the analysis and mechanistic discussions, linking molecular interactions to improved lithium metal battery stability.
+- Performed all theoretical calculations and molecular dynamics (MD) simulations and contributed to the analysis and mechanistic discussions, linking molecular interactions to improved lithium metal battery stability.
 </div>
 </div>
 
@@ -78,10 +72,22 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 *Small* 22 (2026), e09107
 
-- Introduced porous BiF₃ fillers into PEO-based solid electrolytes to facilitate Li⁺ transport and form a protective interphase containing LiF and lithium–bismuth alloys.
+- Introduced porous BiF₃ fillers into poly(ethylene oxide) (PEO)-based solid electrolytes to facilitate Li⁺ transport and form a protective interphase containing LiF and lithium–bismuth alloys.
 - Performed all theoretical calculations and MD simulations to investigate ion binding and Li⁺ diffusion, and contributed to the analysis and mechanistic discussions.
 </div>
 </div>
+
+
+## Preprint
+
+[ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591)
+
+Wanghan Xu, Shuo Li, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng Wang, Qi Li, Kun Li, Sheng Xu, Shengdu Chai, Fangchen Yu, Xiangyu Zhao, Zhangrui Zhao, Weijie Ma, Zijie Guo, Haoyu Zhou, **Haoxiang Yin**, Lixue Cheng, Chaofan Hu, Haoxuan Li, Lu Mi, et al.
+
+*arXiv:2606.07591* (2026)
+
+- Introduces ResearchClawBench, a benchmark for evaluating end-to-end autonomous scientific research across 40 tasks from 10 scientific domains using paper-grounded tasks, hidden target papers, and expert-curated multimodal rubrics.
+- Contributed chemistry-domain support to help align benchmark tasks and evaluation considerations with scientific practice.
 
 
 # 🔬 Research Experience
@@ -91,7 +97,7 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 *Lead Researcher · 2025–present · Manuscript in preparation*
 
 - Developed FLEX to identify fluorinated additives for lithium metal batteries, combining literature mining, molecular-space expansion, quantum-chemical descriptors, and LLM-assisted screening.
-- Expanded 822 literature-derived molecules into a 24,327-molecule library through ten stages of generation and PubChem identity checks; assembled a screening pool of 21,131 generated molecules with DFT descriptors.
+- Expanded 822 literature-derived molecules into a 24,327-molecule library through ten stages of generation and PubChem identity checks; assembled a screening pool of 21,131 generated molecules with density functional theory (DFT) descriptors.
 - Completed screening with five LLMs, incorporating preliminary experimental feedback, commercial availability, and blinded expert review to prioritize candidates for further testing.
 
 ### Supramolecular Regulation of Lithium Battery Electrolytes
@@ -120,16 +126,22 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 
 # 🎖 Honors and Awards
-- Awarded the **First Prize of the 2025–2026 AFCONA Social Scholarship**.
-- Awarded the **Second Prize Academic Scholarship** for three consecutive years during undergraduate study.
-- Recognized as **Class President** and **Outstanding Student Leader** at Sichuan University.
-- Served as **Laboratory Instrument Manager (Micro FI‑TR)** and **Leader of Theoretical Calculations** group, supporting long‑term computational chemistry projects.
-- Honored as **Outstanding Graduate Student** and **Excellent Master’s Graduate of Sichuan University** for academic and research performance.
+- **AFCONA Social Scholarship, First Prize**, 2025–2026.
+- **Academic Scholarship, Second Prize**, for three consecutive undergraduate years.
+- **Outstanding Student Leader**, Sichuan University.
+- **Outstanding Graduate Student** and **Excellent Master’s Graduate**, Sichuan University.
+
+### Service and Leadership
+- Served as Class President at Sichuan University.
+- Managed the laboratory’s micro-FTIR instrument and led the theoretical calculations group.
 
 
-# 📖 Educations
-- *Sep. 2023 – Jun. 2026 (expected)*, M.S. in Chemistry, Sichuan University, State Key Laboratory of Advanced Polymer Materials. GPA: 3.64/4.0 (Centesimal average: 86.6).
-- *Sep. 2019 – Jun. 2023*, B.S. in Applied Chemistry, Sichuan University. GPA: 3.48/4.0 (Centesimal average: 84.3).
+<span class='anchor' id='-educations'></span>
+
+# 📖 Education
+- *Starting Spring 2027*, PhD (incoming), Hong Kong University of Science and Technology. Supervisor: Prof. Lixue Cheng.
+- *Sep. 2023 – Jun. 2026*, M.S. in Chemistry, Sichuan University, State Key Laboratory of Advanced Polymer Materials. GPA: 3.64/4.0; average: 86.6/100.
+- *Sep. 2019 – Jun. 2023*, B.S. in Applied Chemistry, Sichuan University. GPA: 3.48/4.0; average: 84.3/100.
 
 
 # 💬 Talks
@@ -138,11 +150,11 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 # 💻 Technical Expertise
 
-**Language**
+**Languages**
 - Mandarin Chinese; English (IELTS 7.0; Listening: 7.5, Reading: 6.5, Speaking: 6.5, Writing: 6.5).
 
 **Experimental Chemistry**
-- Spectroscopic and materials characterization; full battery-testing workflow from cell assembly to electrochemical evaluation and data analysis.
+- Spectroscopy, materials characterization, cell assembly, electrochemical testing, and data analysis.
 
 **Computational Chemistry**
 - First-principles calculations with Gaussian and VASP.
@@ -150,23 +162,13 @@ Ying‑Ying Zhang, Xin‑Rui Xiao, **Hao‑Xiang Yin**, Qing‑Song Liu, Xiu‑L
 
 **Computing & AI**
 - Python, Pandas, NumPy, Matplotlib, and LaTeX for scientific computing, visualization, and writing.
-- MAS (multi-agent systems), machine learning, and vibecoding with Codex, Claude Code, Hermes, and related agentic coding tools.
+- Machine learning, multi-agent systems, and AI-assisted software development with Codex, Claude Code, and Hermes.
 
 
 # 🎯 Hobbies
 
-Beyond research, I enjoy activities that keep me energetic and inspired:
+**Road trips and sim racing.** I enjoy driving and have completed solo trips around Qinghai–Gansu (~2,000 km, 2023) and Yunnan–Guizhou–Sichuan (2022). I also play *Le Mans Ultimate* and *Assetto Corsa Competizione*.
 
-## 🚗 Driving
-I am a car enthusiast and enjoy long‑distance road trips. I have completed two solo self‑driving journeys:
+**Football and Formula 1.** I enjoy playing and watching football, and follow F1—especially Max Verstappen and Charles Leclerc.
 
-- 2023: ~2,000 km **Qinghai–Gansu loop**, exploring the Qinghai–Tibet Plateau and surrounding regions.
-- 2022: **Yunnan–Guizhou–Sichuan loop** road trip across southwestern China.
-
-I am also passionate about sim racing. In titles such as **Le Mans Ultimate (LMU)** and **Assetto Corsa Competizione (ACC)**, I maintain solid lap records and once earned **Silver Driver** and **Fair‑Play** badges in LMU.
-
-## 🏅 Sports
-I have been a football fan since middle school and often play informal matches with friends or watch games together. I am also an F1 fan; my favourite drivers are **Max Verstappen** and **Charles Leclerc**, whose driving styles and race craft deeply inspire me.
-
-## 🎮 Gaming
-I am a casual but competitive **Teamfight Tactics** player. During my spare time, I once reached **Master** rank on the Chinese server and participated in local open‑qualifier tournaments, which taught me to stay calm, adapt strategies and manage variance under pressure.
+**Gaming.** I play *Teamfight Tactics*, have reached Master rank on the Chinese server, and have participated in local open qualifiers.
