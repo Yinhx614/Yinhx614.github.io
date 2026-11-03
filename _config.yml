@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Computational Electrolyte Design & AI4Science"
+title                    : "Haoxiang Yin | Electrolytes & AI4Science"
 description              : "AI4Battery and AI4Science"
 repository               : "Yinhx614/Yinhx614.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoxiang Yin"
   avatar           : "images/avarta.jpg"
-  bio              : "M.S. in Chemistry, Sichuan University"
+  bio              : "Incoming PhD Student, HKUST · Spring 2027"
   location         : "Sichuan, Chengdu, China"
   employer         :
   pubmed           : 
